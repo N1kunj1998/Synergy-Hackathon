@@ -225,7 +225,7 @@ for i in meta_data:
     A_ID = z[-1]
 print(A_ID)
 
-don="None"
+dob="None"
 dob_in = 0
 regex = ("[0-9]+[/][0-9]+[/][0-9]+")
 p = re.compile(regex)
